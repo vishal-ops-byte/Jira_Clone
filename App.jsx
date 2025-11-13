@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import TaskForm from "./components/TaskForm/task-form";
-import "./app.css";
+import "./App.css";
 import TaskColumn from "./components/TaskColumn/task-column";
 import ClosedIcon from "./assets/check-mark-button2.png";
 import ProgressIcon from "./assets/InProgress.png";
